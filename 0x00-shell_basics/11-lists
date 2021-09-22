@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -altUr /boot .. .
+ls -Rla .. /root
