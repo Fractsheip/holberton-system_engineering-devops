@@ -1,2 +1,2 @@
 #!/bin/bash
-file -cm school.mgc
+file -bchikLNnprsvz0 --apple --mime-encoding --mime-type -m school
