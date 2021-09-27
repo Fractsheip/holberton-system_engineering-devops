@@ -1,0 +1,1 @@
+Here started shell redirections
